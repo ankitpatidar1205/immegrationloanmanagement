@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Base URL for all API calls
 // const API_BASE_URL = 'http://localhost:5000/api';
-const API_BASE_URL = 'https://loan-ankit-production.up.railway.app/api';
+const API_BASE_URL = 'https://loan-ankit-production-49dd.up.railway.app/api';
 
 // Create axios instance with default config
 const api = axios.create({
